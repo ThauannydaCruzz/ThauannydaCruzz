@@ -39,6 +39,8 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&size=18&pause=1000&color=BF7800&width=435&lines=%E2%9A%A0%EF%B8%8F+C%C3%B3digo+em+constante+evolu%C3%A7%C3%A3o+(assim+como+eu).)](https://git.io/typing-svg)
+
 ### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thauannydacruz)  
