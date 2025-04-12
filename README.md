@@ -56,4 +56,4 @@
 
 ---
 
-<p align="center">✨ Em constante aprendizado e evolução ✨</p>
+<p align="center">✨ Em constante aprendizado ✨</p>
