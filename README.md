@@ -17,6 +17,12 @@
 
 ### 💻 Tecnologias e Ferramentas
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&size=18&pause=1000&color=BF7800&width=435&lines=%E2%9A%A0%EF%B8%8F+C%C3%B3digo+em+constante+evolu%C3%A7%C3%A3o+(assim+como+eu)." />
+  </a>
+</p>
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,11 +48,6 @@
 - Inovação e soluções com impacto social
 
 ---
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&size=18&pause=1000&color=BF7800&width=435&lines=%E2%9A%A0%EF%B8%8F+C%C3%B3digo+em+constante+evolu%C3%A7%C3%A3o+(assim+como+eu)." />
-  </a>
-</p>
 
 ### 🤝 Conecte-se comigo
 
