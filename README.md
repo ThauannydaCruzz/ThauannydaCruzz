@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou a Thauanny 👩‍💻</h1>
+<h1 align="center">Hello World! 👩‍💻</h1>
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> e <strong>Gestão da Tecnologia da Informação</strong>, apaixonada por tecnologia, dados e desenvolvimento de soluções criativas que geram impacto real.
