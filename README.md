@@ -1,17 +1,17 @@
 <h1 align="center">Hello World! 👩‍💻</h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> e <strong>Gestão da Tecnologia da Informação</strong>, apaixonada por tecnologia, dados e desenvolvimento de soluções criativas que geram impacto real.
+  Estudante de <strong>Ciência da Computação</strong> e <strong>Gestão da Tecnologia da Informação</strong>, apaixonada por tecnologia, dados e pelo desenvolvimento de soluções criativas que geram impacto real.
 </p>
 
 ---
 
-### 🌐 Sobre mim
+### 🌐 Sobre Mim
 
-- 💡 Curiosa por natureza e movida por desafios.
-- 🧠 Interesse especial em **desenvolvimento web** e **análise de dados**.
-- 🛠️ Gosto de transformar ideias em soluções através da tecnologia.
-- 📈 Tenho explorado **análise de sentimentos**, **dashboards interativos** e visualização de dados.
+- 💡 Curiosa por natureza e movida por desafios constantes.
+- 🧠 Foco em **desenvolvimento web** e **análise de dados**.
+- 🛠️ Apaixonada por transformar ideias em soluções tecnológicas inovadoras.
+- 📊 Exploro frequentemente **análise de sentimentos**, **dashboards interativos** e visualização de dados.
 
 ---
 
@@ -41,19 +41,19 @@
 
 ### 🔍 Áreas de Interesse
 
-- Desenvolvimento Web (Front-end)
-- Python para análise de dados
-- Dashboards e visualização de informações
-- Análise de sentimentos e comportamento online
-- Inovação e soluções com impacto social
+- **Desenvolvimento Web (Front-end)** — criando interfaces dinâmicas e interativas.
+- **Python para Análise de Dados** — extraindo insights de dados para tomada de decisão.
+- **Dashboards e Visualização de Dados** — transformando dados em histórias visuais fáceis de entender.
+- **Análise de Sentimentos** — monitorando o comportamento online e a opinião pública.
+- **Inovação Tecnológica** — buscando soluções tecnológicas que impactem positivamente a sociedade.
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thauannydacruz)  
-📫 thauannydacruzz@gmail.com
+📫 **Email**: thauannydacruz@gmail.com
 
 ---
 
-<p align="center">✨ Em constante aprendizado ✨</p>
+<p align="center">✨ Em constante aprendizado e evolução! ✨</p>
